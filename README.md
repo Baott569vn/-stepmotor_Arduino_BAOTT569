@@ -45,7 +45,7 @@ Chúng tôi rất hoan nghênh sự đóng góp của bạn! Hãy xem [Hướng 
 
 ## Báo Lỗi:
 
-Nếu bạn phát hiện lỗi, vui lòng tạo một [Báo Lỗi Mới](https://github.com/your-username/your-project/issues).
+Nếu bạn phát hiện lỗi, vui lòng tạo một [Báo Lỗi Mới](https://github.com/Baott569vn/-stepmotor_Arduino_BAOTT569).
 
 ## Giấy Phép:
 
@@ -53,9 +53,8 @@ Mã nguồn này free.
 
 ## Liên Hệ:
 
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, hãy liên hệ chúng tôi qua email: your.email@example.com.
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, hãy liên hệ chúng tôi qua email: baott569@gmail.com.
 
 ## Tài Nguyên Bổ Sung:
-
-- [Hướng Dẫn Sử Dụng Động Cơ Bước](https://link-to-additional-resources.com)
-- [Tài Liệu Kỹ Thuật Động Cơ Bước](https://link-to-additional-docs.com)
+- [Hướng Dẫn Sử Dụng Động Cơ Bước](https://lovitechic.com/san-pham/microstep-driver-bo-dieu-khien-dong-co-buoc#:~:text=Microstep%20driver%20l%C3%A0%20m%E1%BB%99t%20lo%E1%BA%A1i,khi%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20xung.)
+- [Tài Liệu Kỹ Thuật Động Cơ Bước](https://cnc3ds.com/blogs/bai-viet-ky-thuat/xac-dinh-day-dong-co-buoc-6-day-va-4-day)
